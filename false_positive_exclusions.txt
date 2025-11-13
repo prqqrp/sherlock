@@ -3,13 +3,16 @@ Archive.org
 Coders Rank
 GNOME VCS
 Giphy
+LushStories
 Minecraft
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Weblate
 YandexMusic
+opennet
+phpRU
 svidbook
+xHamster
