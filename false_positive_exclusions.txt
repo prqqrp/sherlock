@@ -1,10 +1,12 @@
 APClips
 Archive.org
 DeviantArt
-Freelancer
+GNOME VCS
 Giphy
 LushStories
+OurDJTalk
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
@@ -12,6 +14,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-phpRU
+opennet
 svidbook
-xHamster
