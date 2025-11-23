@@ -3,10 +3,8 @@ Archive.org
 DeviantArt
 GNOME VCS
 Giphy
-LushStories
-OurDJTalk
+Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -14,5 +12,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
+xHamster
