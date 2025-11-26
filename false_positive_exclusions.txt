@@ -1,11 +1,16 @@
 APClips
 Archive.org
+Chess
+Coders Rank
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Weblate
