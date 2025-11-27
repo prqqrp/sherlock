@@ -1,20 +1,18 @@
 APClips
 Archive.org
-Chess
 Coders Rank
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
+LiveJournal
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
+eintracht
 opennet
-phpRU
 svidbook
