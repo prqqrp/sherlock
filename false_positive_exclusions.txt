@@ -1,10 +1,11 @@
 APClips
 Archive.org
-Carbonmade
+Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -12,5 +13,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
-nnRU
+opennet
 svidbook
+xHamster
