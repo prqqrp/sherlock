@@ -1,19 +1,22 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
+Minecraft
 PocketStars
+Rajce.net
 Reddit
 RocketTube
-RuneScape
+SlideShare
 Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
