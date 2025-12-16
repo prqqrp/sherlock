@@ -8,16 +8,13 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
-RuneScape
+SlideShare
 Splice
 Spotify
-Vero
 Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
