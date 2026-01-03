@@ -1,14 +1,13 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hubski
-LushStories
 PocketStars
 Reddit
 RocketTube
@@ -20,7 +19,5 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
