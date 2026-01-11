@@ -1,8 +1,10 @@
 APClips
+Anilist
 Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -22,5 +24,6 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
