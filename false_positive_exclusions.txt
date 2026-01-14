@@ -1,9 +1,8 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
+DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -17,9 +16,9 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
