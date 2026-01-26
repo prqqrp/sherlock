@@ -1,5 +1,4 @@
 APClips
-Anilist
 Archive.org
 Code Snippet Wiki
 Fandom
@@ -8,6 +7,7 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
