@@ -6,10 +6,9 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
+LushStories
 Minecraft
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -19,6 +18,7 @@ Smule
 Splice
 Spotify
 Weblate
+YandexMusic
 mercadolivre
 opennet
 phpRU
