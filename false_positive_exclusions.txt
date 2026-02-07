@@ -1,26 +1,31 @@
 APClips
 Archive.org
+BitBucket
 Code Snippet Wiki
-DeviantArt
 Fandom
+Framapiaf
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Kvinneguiden
 LushStories
+Minecraft
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
+Tenor
 TryHackMe
 Weblate
-YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
