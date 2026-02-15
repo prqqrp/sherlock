@@ -1,7 +1,7 @@
 APClips
-Anilist
 Archive.org
 Code Snippet Wiki
+Cracked Forum
 DeviantArt
 Fandom
 GNOME VCS
@@ -13,6 +13,7 @@ Minecraft
 PocketStars
 Realmeye
 Reddit
+ReverbNation
 RocketTube
 RuneScape
 Scribd
@@ -23,7 +24,10 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+Wikidot
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
