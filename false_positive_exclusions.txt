@@ -19,6 +19,7 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Trovo
