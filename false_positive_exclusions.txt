@@ -5,12 +5,11 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
@@ -19,7 +18,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 Trovo
