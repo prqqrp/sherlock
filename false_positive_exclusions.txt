@@ -1,12 +1,15 @@
 APClips
 Archive.org
+Audiojungle
 Codolio
-DeviantArt
+GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Rarible
@@ -14,6 +17,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
