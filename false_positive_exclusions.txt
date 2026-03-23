@@ -1,16 +1,17 @@
 APClips
 Archive.org
-CGTrader
 Codolio
 DeviantArt
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,6 +26,8 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+xHamster
