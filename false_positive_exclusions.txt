@@ -8,13 +8,14 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,8 +29,11 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+dailykos
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+xHamster
