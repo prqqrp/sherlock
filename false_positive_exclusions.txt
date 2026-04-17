@@ -1,14 +1,13 @@
 7Cups
 APClips
-Anilist
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 LessWrong
@@ -19,12 +18,12 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
