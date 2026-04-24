@@ -3,6 +3,7 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -10,10 +11,10 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
+Minecraft
 Patched
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -33,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
