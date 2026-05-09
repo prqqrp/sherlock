@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -16,6 +15,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Motherless
 Patched
 Pornhub
 Rarible
@@ -39,4 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
+threads
