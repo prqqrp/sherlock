@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -14,8 +13,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
-Minecraft
+LessWrong
 Patched
 Pornhub
 Rarible
