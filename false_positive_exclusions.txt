@@ -23,6 +23,7 @@ Reddit
 Replit.com
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
