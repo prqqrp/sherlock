@@ -13,12 +13,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitBook
 Hashnode
 Hubski
 LessWrong
 LushStories
 Minecraft
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -30,6 +30,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -43,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
