@@ -6,14 +6,16 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
+GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Odysee
 Patched
 Pornhub
@@ -21,11 +23,11 @@ Rarible
 Realmeye
 Reddit
 Replit.com
-RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
