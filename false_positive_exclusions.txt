@@ -6,10 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
-Carbonmade
 Codolio
-Cracked Forum
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -39,11 +36,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
