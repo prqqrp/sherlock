@@ -29,6 +29,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
