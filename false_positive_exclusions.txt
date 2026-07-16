@@ -7,6 +7,7 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -19,6 +20,7 @@ LinkedIn
 LushStories
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -28,6 +30,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
