@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -29,7 +28,6 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
@@ -46,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
