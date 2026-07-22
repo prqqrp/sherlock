@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -15,9 +16,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LinkedIn
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -45,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
