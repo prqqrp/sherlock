@@ -7,6 +7,7 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,6 +22,7 @@ LinkedIn
 LushStories
 Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -34,7 +36,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
