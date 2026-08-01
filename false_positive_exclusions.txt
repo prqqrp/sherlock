@@ -6,9 +6,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,12 +16,14 @@ F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
 LinkedIn
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -34,7 +36,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -48,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
