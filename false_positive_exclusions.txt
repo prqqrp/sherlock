@@ -8,12 +8,14 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+GitHub
 HackenProof (Hackers)
 Hashnode
 Houzz
@@ -21,6 +23,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -31,10 +34,12 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
@@ -48,3 +53,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
