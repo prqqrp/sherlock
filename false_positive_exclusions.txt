@@ -1,6 +1,5 @@
 7Cups
 Airliners
-Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
@@ -20,9 +19,9 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,16 +34,15 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
-dailykos
 fixya
 hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
