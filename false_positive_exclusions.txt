@@ -1,5 +1,7 @@
 7Cups
+APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
@@ -19,6 +21,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -38,6 +41,7 @@ Velomania
 Weblate
 YandexMusic
 authorSTREAM
+dailykos
 fixya
 hunting
 igromania
