@@ -13,6 +13,7 @@ DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -20,7 +21,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
 LushStories
 Odysee
 PCGamer
@@ -30,6 +30,7 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -42,6 +43,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
