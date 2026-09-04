@@ -6,16 +6,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -25,7 +23,6 @@ Instapaper
 LinkedIn
 LushStories
 ObservableHQ
-Odysee
 PCGamer
 Pornhub
 Rarible
@@ -37,10 +34,10 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
-WebNode
 Weblate
 YandexMusic
 authorSTREAM
