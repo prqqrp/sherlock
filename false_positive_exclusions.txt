@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 CGTrader
 Championat
+Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
@@ -21,6 +22,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,11 +36,9 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
@@ -52,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
