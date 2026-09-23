@@ -14,6 +14,7 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Forum Ophilia
 GeeksforGeeks
 Giphy
 Hashnode
@@ -21,8 +22,8 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
+Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -36,6 +37,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -52,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
