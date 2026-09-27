@@ -24,6 +24,8 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LiveJournal
+LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -54,3 +56,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
