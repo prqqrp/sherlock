@@ -12,15 +12,18 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 Linktree
 LushStories
@@ -37,6 +40,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
