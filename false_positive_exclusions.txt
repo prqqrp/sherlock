@@ -6,10 +6,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -17,6 +17,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Google Play
 HackerNews
 Hashnode
 Houzz
@@ -25,9 +26,11 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -46,7 +49,9 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
+igromania
 interpals
 mercadolivre
 opennet
