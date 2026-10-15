@@ -8,7 +8,6 @@ ArtStation
 Bandcamp
 Blogger
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -27,10 +26,10 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pastebin
 Pornhub
 Rarible
 Realmeye
@@ -57,3 +56,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
