@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,6 +17,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gumroad
 HackerNews
 Hashnode
 Houzz
@@ -23,6 +25,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -50,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
