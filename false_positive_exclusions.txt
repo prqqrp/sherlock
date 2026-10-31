@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -24,7 +23,7 @@ Instapaper
 Itch.io
 LinkedIn
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -38,7 +37,6 @@ SlideShare
 Splice
 Spotify
 TryHackMe
-Venmo
 Vero
 YandexMusic
 authorSTREAM
