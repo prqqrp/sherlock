@@ -1,11 +1,14 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -21,11 +24,10 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rarible
+Pornhub
 Realmeye
 Reddit
 ReverbNation
@@ -34,7 +36,9 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
