@@ -7,6 +7,7 @@ Bandcamp
 Blogger
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -25,6 +26,7 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -49,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
