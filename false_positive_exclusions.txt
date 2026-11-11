@@ -1,9 +1,11 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -49,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
