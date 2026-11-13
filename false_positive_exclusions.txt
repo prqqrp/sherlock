@@ -16,7 +16,6 @@ GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
-HackerOne
 Hashnode
 Houzz
 Hubski
@@ -36,6 +35,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -47,7 +47,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
