@@ -3,11 +3,12 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
+Cplusplus
 Cracked Forum
+DEV Community
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -17,6 +18,7 @@ Hashnode
 Hubski
 Instapaper
 LinkedIn
+Linktree
 LushStories
 Minecraft
 ObservableHQ
@@ -46,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
