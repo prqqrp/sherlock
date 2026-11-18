@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -6,9 +5,7 @@ Archive.org
 Championat
 Chatujme.cz
 Codolio
-Cplusplus
 Cracked Forum
-DEV Community
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -19,7 +16,6 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -48,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
