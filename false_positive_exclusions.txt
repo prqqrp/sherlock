@@ -1,8 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Championat
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -14,9 +15,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 LinkedIn
 Linktree
-Minecraft
+LiveJournal
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -26,6 +29,7 @@ Reddit
 ReverbNation
 RocketTube
 Scribd
+Signal
 SlideShare
 Splice
 Spotify
@@ -44,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
