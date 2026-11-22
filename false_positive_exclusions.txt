@@ -9,7 +9,6 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
