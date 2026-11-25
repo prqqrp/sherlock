@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -14,7 +15,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 Linktree
 LushStories
@@ -31,7 +31,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
